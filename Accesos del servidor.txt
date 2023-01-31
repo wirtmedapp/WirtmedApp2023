@@ -1,0 +1,14 @@
+Accesos del servidor
+
+{
+    "name": "My Server",
+    "host": "162.55.132.179",
+    "protocol": "ftp",
+    "port": 21,
+    "username": "wirtmedc",
+    "password":"j4dXzH6X76+aG(",
+    "remotePath": "/",
+    "uploadOnSave": true,
+    "useTempFile": false,
+    "openSsh": false
+}
