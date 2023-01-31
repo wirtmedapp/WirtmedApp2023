@@ -1,0 +1,4 @@
+[30-Jan-2023 21:38:22 UTC] PHP Fatal error:  Cannot redeclare App\Models\User::scopePatients() in /home/wirtmedc/public_html/app/Models/User.php on line 69
+[30-Jan-2023 21:49:35 UTC] PHP Fatal error:  Cannot redeclare App\Models\User::scopePatients() in /home/wirtmedc/public_html/app/Models/User.php on line 69
+[30-Jan-2023 21:49:49 UTC] PHP Fatal error:  Cannot redeclare App\Models\User::scopePatients() in /home/wirtmedc/public_html/app/Models/User.php on line 69
+[30-Jan-2023 21:51:17 UTC] PHP Fatal error:  Cannot redeclare App\Models\User::scopePatients() in /home/wirtmedc/public_html/app/Models/User.php on line 69
